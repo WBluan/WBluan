@@ -1,7 +1,8 @@
 ### Olá, meu nome é Luan Weber Branco. Seja bem vindo(a) ao meu perfil! 
 
-- 💼 Técnico em Telecomunicações
-- 🎓 Instituto Federal de Santa Catarina.
+- 📚 Universidade do Sul de Santa Catarina - Ciência da Computação
+- 🎓 Instituto Federal de Santa Catarina - Técnico em Telecomunicações
+
 
 <div align="center">
   <a href="https://github.com/WBluan">
