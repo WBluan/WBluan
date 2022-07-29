@@ -1,9 +1,9 @@
-### Olá, meu nome é Luan Weber Branco. Seja bem vindo(a) ao meu perfil! 
+### Hello, my name is Luan Weber Branco. Be welcome to my profile! 
 
-- 📚 Universidade do Sul de Santa Catarina
-- 👨‍💻 Ciência da Computação
-- 🎓 Instituto Federal de Santa Catarina
-- 💼 Técnico em Telecomunicações
+- 📚 University of South Santa Catarina 
+- 👨‍💻 Computer Science
+- 🎓 Institute of Education, Science and Technology of Santa Catarina (IFSC)
+- 💼 Telecommunications Technician
 
 
 <div align="center">
