@@ -1,9 +1,9 @@
 ### Hello, my name is Luan Weber Branco. Be welcome to my profile! 
 
-- 📚 University of South Santa Catarina (UNISUL)
-- 👨‍💻 Computer Science
-- 🎓 Institute of Education, Science and Technology of Santa Catarina (IFSC)
-- 💼 Telecommunications Technician
+- 💼 Developer Trainee
+- 📚 University of South Santa Catarina - Computer Science (UNISUL)
+- 🎓 Institute of Education, Science and Technology of Santa Catarina - Telecommunications Technician (IFSC)
+
 
 
 <div align="center">
